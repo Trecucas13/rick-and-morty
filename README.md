@@ -4,4 +4,6 @@
 - Juan Manuel Hernandez
 
 # Video
-https://github.com/user-attachments/assets/ed8ae410-8ff0-4141-a08a-d34aca37a209
+https://github.com/user-attachments/assets/6d25a1cb-39a3-4a66-8975-d7a447df20bd
+
+(Como subir el video explicado por Brayan Ocampo Lopez)
